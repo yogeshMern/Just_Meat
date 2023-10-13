@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "title": "French Bread",
+    "class": "",
+    "price": 5.25,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+    "category": "COLD STARTERS",
+    "image": "./foodimage/French Bread.jpg",
+    "rating": {
+      "rate": 3.9
+    }
+  },
+  {
+    "id": 2,
+    "title": "Steak Tartare",
+    "class": "",
+    "price": 10.25,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+    "category": "COLD STARTERS",
+    "image": "./foodimage/Steak Tartare.jpg",
+    "rating": {
+      "rate": 4.1
+    }
+  },
+  {
+    "id": 3,
+    "title": "Vitello Tonato",
+    "class": "",
+    "price": 10.25,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+    "category": "COLD STARTERS",
+    "image": "./foodimage/Vitello Tonato.jpg",
+    "rating": {
+      "rate": 4.7
+    }
+  },
+  {
+    "id": 4,
+    "title": "Sticky Ribs",
+    "class": "",
+    "price": 7.5,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+    "category": "HOT STARTERS",
+    "image": "./foodimage/sticky ribs.jpg",
+    "rating": {
+      "rate": 2.1
+    }
+  },
+  {
+    "id": 5,
+    "title": "Carne Argentinos",
+    "class": "",
+    "price": 7.5,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+    "category": "HOT STARTERS",
+    "image": "./foodimage/Carne Argentinos.jpg",
+    "rating": {
+      "rate": 4.6
+    }
+  },
+  {
+    "id": 6,
+    "title": "Sweet Harlem Chicken",
+    "class": "",
+    "price": 7.5,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+    "category": "HOT STARTERS",
+    "image": "./foodimage/Sweet Harlem Chicken.jpg",
+    "rating": {
+      "rate": 2.1
+    }
+  },
+  {
+    "id": 7,
+    "title": "Chef's Spareribs",
+    "class": "",
+    "price": 695,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+    "category": "MAIN DISHES",
+    "image": "./foodimage/Chef's Spareribs.jpg",
+    "rating": {
+      "rate": 4.6
+    }
+  },
+  {
+    "id": 8,
+    "title": "Buffalo Chicken Wings",
+    "class": "",
+    "price": 15.99,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+    "category": "MAIN DISHES",
+    "image": "./foodimage/Buffalo Chicken Wings.jpg",
+    "rating": {
+      "rate": 2.1
+    }
+  },
+  {
+    "id": 9,
+    "title": "Chickenburger",
+    "class": "",
+    "price": 695,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+    "category": "MAIN DISHES",
+    "image": "./foodimage/Chickenburger.jpg",
+    "rating": {
+      "rate": 4.6
+    }
+  },
+  {
+    "id": 10,
+    "title": "Tenderloin",
+    "class": "",
+    "price": 15.99,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+    "category": "MAIN DISHES",
+    "image": "./foodimage/Tenderloin.jpg",
+    "rating": {
+      "rate": 2.1
+    }
+  },
+  {
+    "id": 11,
+    "title": "Mixed Grill",
+    "class": "",
+    "price": 695,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+    "category": "MAIN DISHES",
+    "image": "./foodimage/Mixed Grill.jpg",
+    "rating": {
+      "rate": 4.6
+    }
+  },
+  {
+    "id": 12,
+    "title": "Mixed Grill for Two",
+    "class": "",
+    "price": 15.99,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+    "category": "MAIN DISHES",
+    "image": "./foodimage/Mixed Grill for Two.jpg",
+    "rating": {
+      "rate": 2.1
+    }
+  },
+  {
+    "id": 13,
+    "title": "Beef Sirloin Steak",
+    "class": "",
+    "price": 695,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+    "category": "STEAKS",
+    "image": "./foodimage/Beef Sirloin Steak.jpg",
+    "rating": {
+      "rate": 4.6
+    }
+  },
+  {
+    "id": 14,
+    "title": "Veal Rib-Eye",
+    "class": "",
+    "price": 15.99,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+    "category": "STEAKS",
+    "image": "./foodimage/Veal Rib-Eye.jpg",
+    "rating": {
+      "rate": 2.1
+    }
+  },
+  {
+    "id": 15,
+    "title": "Rack of Lambs",
+    "class": "",
+    "price": 695,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+    "category": "STEAKS",
+    "image": "./foodimage/Rack of Lambs.jpg",
+    "rating": {
+      "rate": 4.6
+    }
+  },
+  {
+    "id": 16,
+    "title": "Tenderloin Steak",
+    "class": "",
+    "price": 15.99,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+    "category": "STEAKS",
+    "image": "./foodimage/Tenderloin Steak.jpg",
+    "rating": {
+      "rate": 2.1
+    }
+  },
+  {
+    "id": 17,
+    "title": "Tournedos",
+    "class": "",
+    "price": 695,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+    "category": "STEAKS",
+    "image": "./foodimage/Tournedos.jpg",
+    "rating": {
+      "rate": 4.6
+    }
+  },
+  {
+    "id": 18,
+    "title": "T-Bone Steak",
+    "class": "",
+    "price": 15.99,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+    "category": "STEAKS",
+    "image": "./foodimage/T-Bone Steak.jpg",
+    "rating": {
+      "rate": 2.1
+    }
+  },
+  {
+    "id": 19,
+    "title": "French Fries",
+    "class": "",
+    "price": 695,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+    "category": "SIDE DISHES",
+    "image": "./foodimage/French Fries.jpg",
+    "rating": {
+      "rate": 4.6
+    }
+  },
+  {
+    "id": 20,
+    "title": "Fried Potatoes",
+    "class": "",
+    "price": 15.99,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+    "category": "SIDE DISHES",
+    "image": "./foodimage/Fried Potatoes.jpg",
+    "rating": {
+      "rate": 2.1
+    }
+  },
+  {
+    "id": 21,
+    "title": "Jacked Potato",
+    "class": "",
+    "price": 695,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+    "category": "SIDE DISHES",
+    "image": "./foodimage/Jacked Potato.jpg",
+    "rating": {
+      "rate": 4.6
+    }
+  },
+  {
+    "id": 22,
+    "title": "Vegetables",
+    "class": "",
+    "price": 15.99,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+    "category": "SIDE DISHES",
+    "image": "./foodimage/Vegetables.jpg",
+    "rating": {
+      "rate": 2.1
+    }
+  },
+  {
+    "id": 23,
+    "title": "Onion Rings",
+    "class": "",
+    "price": 695,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+    "category": "SIDE DISHES",
+    "image": "./foodimage/Onion Rings.jpg",
+    "rating": {
+      "rate": 4.6
+    }
+  },
+  {
+    "id": 24,
+    "title": "Sauce",
+    "class": "",
+    "price": 15.99,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+    "category": "SIDE DISHES",
+    "image": "./foodimage/Sauce.jpg",
+    "rating": {
+      "rate": 2.1
+    }
+  },
+  {
+    "id": 25,
+    "title": "Tiramisu",
+    "class": "",
+    "price": 695,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+    "category": "DESSERTS",
+    "image": "./foodimage/Tiramisu.jpg",
+    "rating": {
+      "rate": 4.6
+    }
+  },
+  {
+    "id": 26,
+    "title": "Sorbet",
+    "class": "",
+    "price": 15.99,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+    "category": "DESSERTS",
+    "image": "./foodimage/Sorbet.jpg",
+    "rating": {
+      "rate": 2.1
+    }
+  },
+  {
+    "id": 27,
+    "title": "Chocolate Mousso",
+    "class": "",
+    "price": 695,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+    "category": "DESSERTS",
+    "image": "./foodimage/Chocolate Mousso.jpg",
+    "rating": {
+      "rate": 4.6
+    }
+  },
+  {
+    "id": 28,
+    "title": "Creme Brulee",
+    "class": "",
+    "price": 15.99,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+    "category": "DESSERTS",
+    "image": "./foodimage/Creme Brulee.jpg",
+    "rating": {
+      "rate": 2.1
+    }
+  },
+  {
+    "id": 29,
+    "title": "Dame Blance",
+    "class": "",
+    "price": 695,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+    "category": "DESSERTS",
+    "image": "./foodimage/Dame Blance.jpg",
+    "rating": {
+      "rate": 4.6
+    }
+  },
+  {
+    "id": 30,
+    "title": "Cheesecake",
+    "class": "",
+    "price": 15.99,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+    "category": "DESSERTS",
+    "image": "./foodimage/Cheesecake.jpg",
+    "rating": {
+      "rate": 2.1
+    }
+  },
+  {
+    "id": 31,
+    "title": "Prosciutto & Fish",
+    "class": "",
+    "price": 8.75,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "category": "H I G H L I G H T S",
+    "image": "./foodimage/fish.jpg",
+    "rating": {
+      "rate": 2.1
+    }
+  },
+  {
+    "id": 32,
+    "title": "Just Meat Burger",
+    "class": "",
+    "price": 14.5,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "category": "H I G H L I G H T S",
+    "image": "./foodimage/burger.jpg",
+    "rating": {
+      "rate": 2.1
+    }
+  },
+  {
+    "id": 33,
+    "title": "Tomahawk Rib",
+    "class": "",
+    "price": 39.5,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "category": "H I G H L I G H T S",
+    "image": "./foodimage/ribbone.jpg",
+    "rating": {
+      "rate": 2.1
+    }
+  },
+  {
+    "id": 34,
+    "title": "Grilled Corn",
+    "class": "",
+    "price": 3.5,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "category": "H I G H L I G H T S",
+    "image": "./foodimage/grilledcorn.jpg",
+    "rating": {
+      "rate": 2.1
+    }
+  },
+  {
+    "id": 35,
+    "title": "Chef's Dessert",
+    "class": "",
+    "price": 8.5,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "category": "H I G H L I G H T S",
+    "image": "./foodimage/dessert.jpg",
+    "rating": {
+      "rate": 2.1
+    }
+  }
+]

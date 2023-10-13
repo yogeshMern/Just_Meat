@@ -1,0 +1,32 @@
+.contain {
+  padding: 0 10rem 0 10rem;
+  display: flex;
+  gap: 5rem;
+}
+
+.parent {
+  flex: 1 1 41rem;
+}
+
+.starter h6 {
+  color: #caae5b;
+  padding: 0 10rem 0 10rem;
+}
+
+@media (max-width: 1075px) {
+  .contain {
+    gap: 2rem;
+    padding: 0 5rem 0 5rem;
+  }
+  .starter h6 {
+    color: #caae5b;
+    padding: 0 5rem 0 5rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .contain {
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+}

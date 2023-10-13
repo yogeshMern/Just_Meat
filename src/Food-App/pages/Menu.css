@@ -1,0 +1,37 @@
+.menubar {
+  margin: 100px 0 50px 80px;
+  display: flex;
+}
+
+.menubar .menu {
+  flex: 1 1 41rem;
+}
+
+.menubar .menu a {
+  color: gold;
+  font-size: 24px;
+}
+@media (max-width: 768px) {
+  .menubar {
+    margin: 100px 0 50px 50px;
+  }
+  .menubar .menu a {
+    font-size: 18px;
+  }
+}
+@media (max-width: 560px) {
+  .menubar {
+    margin: 100px 0 50px 30px;
+  }
+  .menubar .menu a {
+    font-size: 16px;
+  }
+}
+@media (max-width: 460px) {
+  .menubar {
+    margin: 100px 0 50px 10px;
+  }
+  .menubar .menu a {
+    font-size: 14px;
+  }
+}
